@@ -42,9 +42,9 @@ let demeritPoints = 0
 
 //CHALLENGE 3
 // DefinING the tax, NHIF, and NSSF rates (above 32333 basic salary)
-const taxRate = 0.3
-const nhifRate = 1.3
-const nssfRate= 0.06
+const taxRate = 0.25
+const nhifRate = 0.02
+const nssfRate= 0.12
 //the user's inputs for basic salary and benefits
 const basicSalary = parseFloat(prompt("Enter basic salary"));
 const benefits = parseFloat(prompt("Enter benefits"));

@@ -1,7 +1,7 @@
 Author name = Celine Chege
-Title = code challenge week 1
+#code challenge week 1
 
-CHALLENGE 1:
+##CHALLENGE 1:
 This is a challenge that inputs student marks which should be between(0 and 100)
 Then output the correct grade: 
 
